@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Solution](https://lambent-hummingbird-152d92.netlify.app/)
+[Solution](https://ephemeral-basbousa-d1b945.netlify.app/)
 
 ## Stack
 
